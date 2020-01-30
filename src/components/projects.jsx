@@ -17,6 +17,46 @@ export default class Projects extends Component {
                 </h2>
               </div>
             </div>
+            <div
+              className="col-md-4 animate-box"
+              data-animate-effect="fadeInBottom"
+            >
+              <div
+                className="project"
+                style={{ backgroundImage: "url(images/project4.png)" }}
+              >
+                <div className="desc">
+                  <div className="con">
+                    <h3>
+                      <a href="https://restaurant-website-01.herokuapp.com/">
+                        Restaurant App
+                      </a>
+                    </h3>
+                    <span>MERN Stack</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="col-md-4 animate-box"
+              data-animate-effect="fadeInRight"
+            >
+              <div
+                className="project"
+                style={{ backgroundImage: "url(images/project3.png)" }}
+              >
+                <div className="desc">
+                  <div className="con">
+                    <h3>
+                      <a href="https://artworld-sei.herokuapp.com">
+                        ArtWorld e-commerce{" "}
+                      </a>
+                    </h3>
+                    <span>DjangoDB, Python</span>
+                  </div>
+                </div>
+              </div>
+            </div>
             <div className="row">
               <div
                 className="col-md-4 animate-box"
@@ -38,26 +78,7 @@ export default class Projects extends Component {
                   </div>
                 </div>
               </div>
-              <div
-                className="col-md-4 animate-box"
-                data-animate-effect="fadeInRight"
-              >
-                <div
-                  className="project"
-                  style={{ backgroundImage: "url(images/project3.png)" }}
-                >
-                  <div className="desc">
-                    <div className="con">
-                      <h3>
-                        <a href="https://artworld-sei.herokuapp.com">
-                          ArtWorld e-commerce{" "}
-                        </a>
-                      </h3>
-                      <span>DjangoDB, Python</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
+
               <div
                 className="col-md-4 animate-box"
                 data-animate-effect="fadeInTop"
@@ -69,29 +90,11 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Simon Game</a>
-                      </h3>
-                      <span>Javascript, HTML, CSS</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className="col-md-4 animate-box"
-                data-animate-effect="fadeInBottom"
-              >
-                <div
-                  className="project"
-                  style={{ backgroundImage: "url(images/project4.png)" }}
-                >
-                  <div className="desc">
-                    <div className="con">
-                      <h3>
-                        <a href="https://restaurant-website-01.herokuapp.com/">
-                          Restaurant App
+                        <a href="https://acostahf.github.io/project-1/">
+                          Simon Game
                         </a>
                       </h3>
-                      <span>MERN Stack</span>
+                      <span>Javascript, HTML, CSS</span>
                     </div>
                   </div>
                 </div>
