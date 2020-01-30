@@ -34,13 +34,13 @@ export default class Sidebar extends Component {
                     </a>
                   </li>
                   <li>
-                    <a href="#about" data-nav-section="about">
-                      About
+                    <a href="#projects" data-nav-section="projects">
+                      Projects
                     </a>
                   </li>
                   <li>
-                    <a href="#projects" data-nav-section="projects">
-                      Projects
+                    <a href="#about" data-nav-section="about">
+                      About
                     </a>
                   </li>
                   <li>
