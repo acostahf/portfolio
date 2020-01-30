@@ -34,23 +34,6 @@ export default class Projects extends Component {
                         </a>
                       </h3>
                       <span>Javascript, Node,js, Express, Mongoose</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -71,23 +54,6 @@ export default class Projects extends Component {
                         </a>
                       </h3>
                       <span>DjangoDB, Python</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -106,23 +72,6 @@ export default class Projects extends Component {
                         <a href="work.html">Simon Game</a>
                       </h3>
                       <span>Javascript, HTML, CSS</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p>
                     </div>
                   </div>
                 </div>
@@ -143,23 +92,6 @@ export default class Projects extends Component {
                         </a>
                       </h3>
                       <span>MERN Stack</span>
-                      <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p>
                     </div>
                   </div>
                 </div>
